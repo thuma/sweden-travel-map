@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "properties": {
+        "company": 431,
+        "daily_departures": 7
+      },
+      "geometry": {"type": "LineString", 
+        "coordinates": [
+          [11.9617836,57.6979211], [18.0557383,59.3306685], [17.6443477,59.8581984]
+        ]
+      }
+    },
+    { "type": "Feature",
+      "properties": {
+        "company": 74,
+        "daily_departures": 2
+      },
+      "geometry": {"type": "LineString", 
+        "coordinates": [
+          [11.9617836,57.6979211], [17.0557383,59.3306685], [17.6443477,58.8581984]
+        ]
+      }
+    },
+    { "type": "Feature",
+      "properties": {
+        "company": 275,
+        "daily_departures": 2
+      },
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [17.646086,59.858534],
+          [18.058155,59.330140],
+          [15.110380,59.067102],
+          [13.853194,58.390897],
+          [12.532494,57.926861],
+          [11.973479,57.708895]
+        ]
+      }
+    }
+  ]
+}
+
+
